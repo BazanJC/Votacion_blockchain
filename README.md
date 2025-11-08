@@ -7,8 +7,9 @@
 ## 📋 Descripción
 
 Sistema de votación descentralizado construido en Solidity que permite gestionar procesos electorales completos de forma segura, transparente y auditable en la blockchain de Ethereum.
+## Numero de contrato:  0x30bA6DB5b34851505638Ac508fDe039ff771021C
 
-## 🎯 Características Principales
+## 🎯 Características Principales :
 
 ### 🛡️ Seguridad y Transparencia
 - **Voto único por persona** - Prevención de votos duplicados
